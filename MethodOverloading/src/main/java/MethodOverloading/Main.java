@@ -24,7 +24,7 @@ public class Main {
         int toplam2 = dortislem.Topla(2, 5, 8);
         System.out.println(toplam2);
 
-//        bunu öylesine denedim
+
         int toplam3 = dortislem.Toplax(2, 5, 8);
         System.out.println(toplam3);
     }
